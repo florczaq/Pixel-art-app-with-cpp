@@ -1,0 +1,27 @@
+﻿  poddaje sie.cpp
+C:\Users\mikif\source\repos\PixelArt.v1\poddaje sie.cpp(93,10): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+C:\Users\mikif\source\repos\PixelArt.v1\poddaje sie.cpp(114,41): warning C4244: "argument": konwersja z "double" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\mikif\source\repos\PixelArt.v1\poddaje sie.cpp(114,34): warning C4244: "argument": konwersja z "double" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\mikif\source\repos\PixelArt.v1\poddaje sie.cpp(115,41): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\mikif\source\repos\PixelArt.v1\poddaje sie.cpp(115,29): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\mikif\source\repos\PixelArt.v1\poddaje sie.cpp(316,30): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+C:\Users\mikif\source\repos\PixelArt.v1\poddaje sie.cpp(356,46): warning C4244: "argument": konwersja z "float" do "unsigned int", możliwa utrata danych
+C:\Users\mikif\source\repos\PixelArt.v1\poddaje sie.cpp(356,40): warning C4244: "argument": konwersja z "float" do "unsigned int", możliwa utrata danych
+C:\Users\mikif\source\repos\PixelArt.v1\poddaje sie.cpp(358,61): warning C4244: "argument": konwersja z "float" do "T", możliwa utrata danych
+          with
+          [
+              T=int
+          ]
+  Trwa generowanie kodu
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 163 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Zakończono generowanie kodu
+  PixelArt.v1.vcxproj -> C:\Users\mikif\source\repos\PixelArt.v1\x64\Release\PixelArt.v1.exe
